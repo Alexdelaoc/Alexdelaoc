@@ -1,9 +1,8 @@
-## Hello world! 👋
+# Hello world! 👋
 I'm Alex. Junior Full Stack Web Developer currently based in Albacete.
 
-- 🔭 I’m currently working on improving my skills in the MERN Stack and learning more strongly typed programming languages, as well as getting ready for the labor market! 😁
-- 🌱 I’m currently learning everything I can! Particularly interested in the Backend world!
-- 🔜 
+- 🔭 I’m currently working on improving my skills in the MERN Stack, as well as getting ready for the labor market! Right now I'm working in a MERN developed with only TypeScript, [check it out!](https://github.com/Alexdelaoc/MERN-TS)
+- 🌱 I’m currently learning more strongly typed programming languages, that is Typescript and Python.
 
 ## Languages
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
